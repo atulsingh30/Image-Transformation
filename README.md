@@ -1,4 +1,5 @@
 # Image-Transformation
+This project showcases a powerful and versatile C++ image processing application that empowers users to apply a wide range of transformations to their images. With features like grayscale conversion, Illini Orange filter, spotlight effect, and watermark addition, this application offers a comprehensive suite of tools for enhancing and manipulating images.
 ## How the project works:
 ### For loading and saving PNG files:
 
